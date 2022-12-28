@@ -22,3 +22,11 @@ same vehicles, result of simulation may change.
 - When adding parts to vehicles; to calculate the total points of the parts and their vehicles, **Decorator Design Pattern** was used.
 
 - Project can be tested and run in the *Test* package.
+
+
+## Screenshots
+
+<img src="screenshots/1.png" height="300" width="300" /> <br/><br/>
+<img src="screenshots/2.png" height="300" width="300" />
+<br/><br/>
+<img src="screenshots/3.png" height="300" width="300" />
